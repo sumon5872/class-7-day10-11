@@ -1,0 +1,57 @@
+h1{
+    color:#68217a;
+}
+table{
+    text-align: center;
+}
+th{
+    background-color:#ffff00;
+}
+.tn{
+    background-color:#ffcccc;
+}
+.day1{
+    background-color:#f6b93b;
+}
+.day2{
+    background-color:#ff3f34;
+}
+.day3{
+    background-color:#0fbcf9;
+}
+.day4{
+    background-color:#78e08f;
+}
+.day5{
+    background-color:#ee82ee;
+}
+.day6{
+    background-color: #ebebeb;
+}
+.cn1{
+    background-color:#ee82ee;
+}
+.cn2{
+    background-color:#8e4abe;
+}
+.cn3{
+    background-color:#2222fd;
+}
+.cn4{
+    background-color:#008000;
+}
+.cn5{
+    background-color:#ffff00;
+}
+.cn6{
+    background-color:#ffa500;
+}
+.ct1{
+    background-color:#ff6b81;
+}
+.ct2{
+    background-color:#2ed573;
+}
+.rn{
+    background-color: #c4e538;
+}
